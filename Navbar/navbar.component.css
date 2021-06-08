@@ -1,0 +1,9 @@
+
+.navbar{
+    background-color: orangered;
+    color:white;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+}
